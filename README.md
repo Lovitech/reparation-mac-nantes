@@ -2,12 +2,12 @@
 
 Si vous recherchez un lieu où faire réparer votre MacBook rapidement sans vous ruiner, l’entreprise Lovitech basée à Nantes est spécialisée en réparation de carte mère Mac et consoles. Si votre Mac a un des problème ci-dessous, n'hésitez pas à prendre contact avec Lovitech pour avoir une estimation du prix de la réparation :
 
-- Le macbook ne s'allume plus oul'écran reste noir [voir sur le site](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-allume-plus)
-- Le mac est lent [voir sur le site](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-lent) 
+- [Le macbook ne s'allume plus oul'écran reste noir](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-allume-plus)
+- [Le mac est lent](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-lent) 
 - Le mac fonctionne uniquement sur chargeur ou la batterie ne charge plus
-- Le macbook est bloqué sur le logo Apple [voir sur le site](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-bloque-logo-apple)
-- Le trackPad ne répond pas pas, ou répond anormalement [voir sur le site](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-reparation-trackpad)
-- Le clavier ne fonctionne pas [voir sur le site](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-bloque-logo-apple) 
+- [Le macbook est bloqué sur le logo Apple](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-bloque-logo-apple)
+- [Le trackPad ne répond pas pas, ou répond anormalement](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-reparation-trackpad)
+- [Le clavier ne fonctionne pas](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-bloque-logo-apple) 
 - Chute de liquide sur le mac
 
 # Les adresses de Lovitech en Loire Atlantique
