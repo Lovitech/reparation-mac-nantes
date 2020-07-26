@@ -2,15 +2,13 @@
 
 Si vous recherchez un lieu où faire réparer votre MacBook rapidement sans vous ruiner, l’entreprise Lovitech basée à Nantes est spécialisée en réparation de carte mère Mac et consoles. Si votre Mac a un des problème ci-dessous, n'hésitez pas à prendre contact avec Lovitech pour avoir une estimation du prix de la réparation :
 
-- Le Macbook ne s'allume plus et la LED du chargeur est éteinte
-- Le Mac ne s'allume plus et la LED du chargeur est verte ou orange
-- La ventilation du Macbook fonctionne mais l'écran reste noir
-- Le Mac est lent
-- Le Mac fonctionne uniquement sur chargeur ou la batterie ne charge plus
-- Le Macbook est bloqué sur le logo Apple
-- Le TrackPad ne répond pas pas, ou répond anormalement
-- Le clavier ne fonctionne pas
-- Chute de liquide sur le Mac
+- Le macbook ne s'allume plus oul'écran reste noir [voir sur le site](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-allume-plus)
+- Le mac est lent [voir sur le site] https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-lent
+- Le mac fonctionne uniquement sur chargeur ou la batterie ne charge plus
+- Le macbook est bloqué sur le logo Apple [voir sur le site](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-bloque-logo-apple)
+- Le trackPad ne répond pas pas, ou répond anormalement [voir sur le site](https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-reparation-trackpad)
+- Le clavier ne fonctionne pas [voir sur le site] https://www.lovitech.fr/r%C3%A9parations/macbooks/nantes-reparation-macbook-clavier
+- Chute de liquide sur le mac
 
 # Les adresses de Lovitech en Loire Atlantique
 
